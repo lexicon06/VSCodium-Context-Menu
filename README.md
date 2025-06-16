@@ -4,8 +4,6 @@ Adds VSCodium to Windows right-click menus:
 - **Shift + Right-Click** on folders → "Open with VSCodium"
 - **Right-Click** on files → "Edit with VSCodium"
 
-![Context Menu Demo](demo.gif)
-
 ## Features
 - ✅ No hardcoded paths - works for all users
 - ✅ Admin rights auto-detection
